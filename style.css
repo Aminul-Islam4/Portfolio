@@ -112,7 +112,7 @@ body.dark #theme-toggle {
 header {
   text-align: center;
   padding: 120px 20px 80px;
-  background: linear-gradient(135deg, #bdd4f1, #e3ecfa);
+  background: linear-gradient(135deg, #dbeafe, #f0f4ff);
   position: relative;
   overflow: hidden;
 }
