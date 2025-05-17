@@ -123,6 +123,20 @@ body.dark header {
   color: white; /* text color for dark mode */
 }
 
+
+header .contact-icons {
+  margin-top: 30px; /* Default margin for desktop and larger screens */
+}
+
+/* Smaller margin on small screens (phones) */
+@media (max-width: 600px) {
+  header .contact-icons {
+    margin-top: 20px; /* Less space on smaller screens */
+  }
+}
+
+
+
 header::before {
   content: "";
   position: absolute;
