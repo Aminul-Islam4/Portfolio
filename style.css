@@ -119,7 +119,7 @@ header {
 
 /* Dark mode */
 .dark-mode header {
-  background: linear-gradient(135deg, #0a192f, #172a45);
+  background: transparent;
   color: white; /* text color for dark mode */
 }
 
